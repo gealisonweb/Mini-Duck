@@ -1,4 +1,5 @@
-# Mini Duck
+# Mini Duck Navegador
+
 
 Mini Duck é um navegador Android leve para quem usa um celular com pouca memória ou um processador antigo e quer reduzir os dados de navegação que ficam no aparelho. Ele abre direto na busca HTML do DuckDuckGo, com fundo preto AMOLED na pesquisa e nos resultados.
 
